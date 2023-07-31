@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![Screenshot 2023-07-30 at 8 48 17 PM](https://github.com/jamesavakian62/reacjs_css_navbar/assets/92414210/cb301166-b5ec-44e1-9ead-29b1a9343935)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
